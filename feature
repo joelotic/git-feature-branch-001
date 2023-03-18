@@ -1,1 +1,1 @@
-conflict 1
+commit on feature 2
